@@ -11,3 +11,5 @@ leetcode练习
 ## 剑指 Offer 05. 替换空格（replaceSpace）
 
 ## 剑指 Offer 30. 包含min函数的栈（MinStack）
+
+## 剑指 Offer 58 - II. 左旋转字符串（reverseLeftWords）
