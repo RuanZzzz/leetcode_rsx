@@ -13,3 +13,6 @@ leetcode练习
 ## 剑指 Offer 30. 包含min函数的栈（MinStack）
 
 ## 剑指 Offer 58 - II. 左旋转字符串（reverseLeftWords）
+
+## 剑指 Offer 03. 数组中重复的数字（findRepeatNumber）
+可以看看这道题的其他解法
