@@ -16,3 +16,6 @@ leetcode练习
 
 ## 剑指 Offer 03. 数组中重复的数字（findRepeatNumber）
 可以看看这道题的其他解法
+
+## 剑指 Offer 50. 第一个只出现一次的字符（firstUniqChar）
+非常有意思的解法
