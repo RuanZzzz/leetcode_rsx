@@ -19,3 +19,6 @@ leetcode练习
 
 ## 剑指 Offer 50. 第一个只出现一次的字符（firstUniqChar）
 非常有意思的解法
+
+## 剑指 Offer 53 - II. 0～n-1中缺失的数字（missingNumber）
+二分查找
