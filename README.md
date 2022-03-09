@@ -41,3 +41,6 @@ leetcode练习
 
 ## 剑指 Offer 58 - I. 翻转单词顺序（reverseWords）
 双指针
+
+## 剑指 Offer 27. 二叉树的镜像
+可以试试其他解法
