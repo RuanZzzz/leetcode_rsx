@@ -46,3 +46,5 @@ leetcode练习
 可以试试其他解法
 
 ## 剑指 Offer 28. 对称的二叉树（isSymmetric）——多练
+
+## 剑指 Offer 42. 连续子数组的最大和
