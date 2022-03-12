@@ -48,3 +48,6 @@ leetcode练习
 ## 剑指 Offer 28. 对称的二叉树（isSymmetric）——多练
 
 ## 剑指 Offer 42. 连续子数组的最大和
+
+## 剑指 Offer 47. 礼物的最大价值（maxValue）
+动态规划(后续练习可以优化)
