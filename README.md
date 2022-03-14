@@ -54,3 +54,5 @@ leetcode练习
 
 ## 剑指 Offer 22. 链表中倒数第k个节点（getKthFromEnd）
 双指针解法太妙了
+
+## 剑指 Offer 18. 删除链表的节点（deleteNode）
