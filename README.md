@@ -62,3 +62,6 @@ leetcode练习
 ## 剑指 Offer 25. 合并两个排序的链表
 
 ## 剑指 Offer 55 - I. 二叉树的深度（maxDepth）
+
+## 剑指 Offer 64. 求1+2+…+n（sumNums）
+短路效应
