@@ -65,3 +65,6 @@ leetcode练习
 
 ## 剑指 Offer 64. 求1+2+…+n（sumNums）
 短路效应
+
+## 剑指 Offer 53 - I. 在排序数组中查找数字 I（search）
+这道二分查找可以多做
