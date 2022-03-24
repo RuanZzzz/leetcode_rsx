@@ -25,13 +25,26 @@ public class lengthOfLongestSubstring {
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        Map<Character,Integer> dic = new HashMap<>();
-        int res = 0,tmo = 0;
+        // 存放不重复的字符和它的位置
+        Map<Character,Integer> map = new HashMap<>();
+        int n = s.length();
+        // 无重复的最大长度
+        int ans = 0;
 
-        for (int j = 0; j < s.length() ; j++) {
-            int i = dic.getOrDefault(s.charAt(j), -1);
+        for (int start = 0,end = 0; end < n; end++) {
+            char c = s.charAt(end);
+            // 如果遇到重复的字符了
+            if (map.containsKey(c)) {
+                // 更新start的位置
+                start = Math.max(map.get(c),start);
+            }
+            // 如果没遇到重复的字符
+            // 更新ans的最大长度
+            ans = Math.max(ans,end - start + 1);
+            // 更新字符串和位置，end + 1就表示它下一个不重复
+            map.put(s.charAt(end),end + 1);
         }
 
-        return res;
+        return ans;
     }
 }
